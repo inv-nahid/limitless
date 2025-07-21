@@ -5,11 +5,11 @@ A fast, responsive fitness web app built with React and Material UI. Users can s
 
 ## Features
 
-- 🔍 **Exercise Search** – Search 1000+ exercises by name or target muscle group
-- 🎯 **Muscle Group Filter** – Select from body part categories (e.g. chest, legs, back)
-- 📹 **YouTube Integration** – Real-time video suggestions for each exercise
-- 🖼️ **GIF Previews** – Visual demonstration of each exercise from RapidAPI
-- ⚡ **Responsive UI** – Optimized for mobile and desktop with smooth transitions
+- **Exercise Search** – Search 1000+ exercises by name or target muscle group
+- **Muscle Group Filter** – Select from body part categories (e.g. chest, legs, back)
+- **YouTube Integration** – Real-time video suggestions for each exercise
+- **GIF Previews** – Visual demonstration of each exercise from RapidAPI
+- **Responsive UI** – Optimized for mobile and desktop with smooth transitions
 
 ## Tech Stack
 
