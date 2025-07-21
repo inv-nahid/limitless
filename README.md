@@ -1,4 +1,5 @@
-# React Fitness App
+# [Limitless](https://amansiz.netlify.app/)
+
 
 A fast, responsive fitness web app built with React and Material UI. Users can search exercises by name or muscle group, view detailed instructions with GIFs, and get real-time YouTube video suggestions.
 
